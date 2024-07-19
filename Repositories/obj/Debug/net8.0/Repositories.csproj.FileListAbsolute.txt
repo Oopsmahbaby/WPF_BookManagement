@@ -1,0 +1,14 @@
+C:\Users\ADMIN\Documents\Visual Studio\.NET\PRN212\PE_PRN211_SP24_PracticalTest_VuThanhAn\Repositories\bin\Debug\net8.0\Repositories.deps.json
+C:\Users\ADMIN\Documents\Visual Studio\.NET\PRN212\PE_PRN211_SP24_PracticalTest_VuThanhAn\Repositories\bin\Debug\net8.0\Repositories.runtimeconfig.json
+C:\Users\ADMIN\Documents\Visual Studio\.NET\PRN212\PE_PRN211_SP24_PracticalTest_VuThanhAn\Repositories\bin\Debug\net8.0\Repositories.dll
+C:\Users\ADMIN\Documents\Visual Studio\.NET\PRN212\PE_PRN211_SP24_PracticalTest_VuThanhAn\Repositories\bin\Debug\net8.0\Repositories.pdb
+C:\Users\ADMIN\Documents\Visual Studio\.NET\PRN212\PE_PRN211_SP24_PracticalTest_VuThanhAn\Repositories\obj\Debug\net8.0\Repositories.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Documents\Visual Studio\.NET\PRN212\PE_PRN211_SP24_PracticalTest_VuThanhAn\Repositories\obj\Debug\net8.0\Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Documents\Visual Studio\.NET\PRN212\PE_PRN211_SP24_PracticalTest_VuThanhAn\Repositories\obj\Debug\net8.0\Repositories.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Documents\Visual Studio\.NET\PRN212\PE_PRN211_SP24_PracticalTest_VuThanhAn\Repositories\obj\Debug\net8.0\Repositories.AssemblyInfo.cs
+C:\Users\ADMIN\Documents\Visual Studio\.NET\PRN212\PE_PRN211_SP24_PracticalTest_VuThanhAn\Repositories\obj\Debug\net8.0\Repositories.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Documents\Visual Studio\.NET\PRN212\PE_PRN211_SP24_PracticalTest_VuThanhAn\Repositories\obj\Debug\net8.0\Repositories.dll
+C:\Users\ADMIN\Documents\Visual Studio\.NET\PRN212\PE_PRN211_SP24_PracticalTest_VuThanhAn\Repositories\obj\Debug\net8.0\refint\Repositories.dll
+C:\Users\ADMIN\Documents\Visual Studio\.NET\PRN212\PE_PRN211_SP24_PracticalTest_VuThanhAn\Repositories\obj\Debug\net8.0\Repositories.pdb
+C:\Users\ADMIN\Documents\Visual Studio\.NET\PRN212\PE_PRN211_SP24_PracticalTest_VuThanhAn\Repositories\obj\Debug\net8.0\Repositories.genruntimeconfig.cache
+C:\Users\ADMIN\Documents\Visual Studio\.NET\PRN212\PE_PRN211_SP24_PracticalTest_VuThanhAn\Repositories\obj\Debug\net8.0\ref\Repositories.dll
