@@ -27,7 +27,7 @@ namespace PE_PRN211_SP24_PracticalTest_VuThanhAn
             Load_All_Books();
         }
 
-        private void Load_All_Books()
+        public void Load_All_Books()
         {
             BookService bookService = new BookService();
             ListBookDataGrid.ItemsSource = bookService.GetAllBooks();
@@ -61,12 +61,22 @@ namespace PE_PRN211_SP24_PracticalTest_VuThanhAn
 
         private void EditButton_Click(object sender, RoutedEventArgs e)
         {
-            
+            if (ListBookDataGrid.SelectedItem is Book selectedBook)
+            {
+                // Pass the selected book and refresh method to the InputForm
+                InputForm inputForm = new InputForm(selectedBook, Load_All_Books);
+                inputForm.ShowDialog();
+            }
+            else
+            {
+                MessageBox.Show("Please select a book to edit.");
+            }
         }
 
         private void AddButton_Click(object sender, RoutedEventArgs e)
         {
-
+            InputForm inputForm = new InputForm(Load_All_Books);
+            inputForm.ShowDialog();
         }
     }
 }

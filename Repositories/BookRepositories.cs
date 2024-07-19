@@ -24,8 +24,19 @@ namespace Repositories
 
         public void AddBook(Book book)
         {
-
             _context.Books.Add(book);
+            _context.SaveChanges();
+        }
+
+        public Book? CheckIdExist(int id)
+        {
+            return _context.Books.Find(id);
+        }
+
+        public void UpdateBook(Book book)
+        {
+            _context.Books.Update(book);
+            _context.SaveChanges();
         }
     }
 }

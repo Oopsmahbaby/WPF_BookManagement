@@ -10,12 +10,18 @@
     <Compile Update="BookManagerMainForm.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Update="InputForm.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Update="LoginForm.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
   </ItemGroup>
   <ItemGroup>
     <Page Update="BookManagerMainForm.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="InputForm.xaml">
       <SubType>Designer</SubType>
     </Page>
     <Page Update="LoginForm.xaml">

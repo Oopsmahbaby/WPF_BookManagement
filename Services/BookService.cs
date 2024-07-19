@@ -19,5 +19,20 @@ namespace Services
         {
             _repo.DeleteBook(book);
         }
+
+        public void AddBook(Book book)
+        {
+            _repo.AddBook(book);
+        }
+
+        public Book? CheckIdExist(int id) 
+        {
+            return _repo.CheckIdExist(id);
+        }
+
+        public void UpdateBook(Book book)
+        {
+            _repo.UpdateBook(book);
+        }
     }
 }
